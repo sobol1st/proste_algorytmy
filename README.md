@@ -1,1 +1,0 @@
-# proste_algorytmy
